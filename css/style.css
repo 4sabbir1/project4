@@ -1,0 +1,215 @@
+body {
+	
+	margin: 0px;
+	padding: 0px;
+	
+	
+}
+
+.container {
+
+	width: 80%;
+	margin: auto;
+	
+	
+}
+
+.sabbir ul {
+	list-style: none;
+	
+	
+	
+}
+
+.sabbir ul li {
+	display: inline-block;
+	margin-top: 40px;
+}
+
+.sabbir ul li a {
+	
+	text-decoration: none;
+	margin-left: 100px;
+	padding: 40px;
+	color: white;
+	background-color: #107AE4;
+	border-radius: 50%;
+	font-size: 50px;
+	
+}
+
+.sabbir ul li a:hover {
+	color: white;
+	background-color: black;
+	
+}
+
+
+.sabbir2 ul {
+	list-style: none;
+	
+	
+}
+
+.sabbir2 ul li {
+	display: inline-block;
+	margin-top: 80px;
+}
+
+.sabbir2 ul li a {
+	
+	text-decoration: none;
+	margin-left: 100px;
+	padding: 40px;
+	color: #FF7F50;
+	background-color: #B0C4DE	;
+	border-radius: 50%;
+	font-size: 50px;
+	
+}
+
+.sabbir2 ul li a:hover {
+	color: white;
+	background-color: black;
+	
+}
+
+
+
+
+
+
+
+
+.sabbir3 ul {
+	list-style: none;
+	
+	
+}
+
+.sabbir3 ul li {
+	display: inline-block;
+	margin-top: 80px;
+}
+
+.sabbir3 ul li a {
+	
+	text-decoration: none;
+	margin-left: 100px;
+	padding: 40px;
+	color: #D8BFD8	;
+	background-color: #7B68EE	;
+	border-radius: 50%;
+	font-size: 50px;
+	
+}
+
+.sabbir3 ul li a:hover {
+	color: white;
+	background-color: black;
+	
+}
+
+
+
+
+
+
+
+.sabbir4 ul {
+	list-style: none;
+	
+	
+}
+
+.sabbir4 ul li {
+	display: inline-block;
+	margin-top: 80px;
+}
+
+.sabbir4 ul li a {
+	
+	text-decoration: none;
+	margin-left: 100px;
+	padding: 40px;
+	color: #A9A9A9	;
+	background-color: #DB7093	;
+	border-radius: 50%;
+	font-size: 50px;
+	
+}
+
+.sabbir4 ul li a:hover {
+	color: white;
+	background-color: black;
+	
+}
+
+
+
+
+
+
+
+.sabbir5 ul {
+	list-style: none;
+	
+	
+}
+
+.sabbir5 ul li {
+	display: inline-block;
+	margin-top: 80px;
+}
+
+.sabbir5 ul li a {
+	
+	text-decoration: none;
+	margin-left: 100px;
+	padding: 40px;
+	color: #FFD700	;
+	background-color: #008B8B	;
+	border-radius: 50%;
+	font-size: 50px;
+	
+}
+
+.sabbir5 ul li a:hover {
+	color: white;
+	background-color: black;
+	
+}
+
+
+
+
+
+
+.sabbir1 ul {
+	list-style: none;
+	
+	
+}
+
+.sabbir1 ul li {
+	display: inline-block;
+	margin-top: 40px;
+}
+
+.sabbir1 ul li a {
+	
+	text-decoration: none;
+	margin-left: 60px;
+	padding: 40px;
+	color: red;
+	background-color: green;
+	border-radius: 50%;
+	font-size: 50px;
+	
+}
+
+.sabbir1 ul li a:hover {
+	color: white;
+	background-color: black;
+	
+}
